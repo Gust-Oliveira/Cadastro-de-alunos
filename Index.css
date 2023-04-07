@@ -1,0 +1,10 @@
+.container{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: rgb(194, 194, 194);
+    border-radius: 10px;
+}
+.input{
+    width: 60% !important;
+    margin: auto;
+}
